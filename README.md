@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SabianRobi
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in web development
 - 🌱 I’m currently studying Computer Science at ELTE
 
 <!---
